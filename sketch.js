@@ -253,6 +253,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
 });
 
 function touchMoved() {
-  // This prevents the touch move from scrolling the page
+  // xyi
   return false;
 }
